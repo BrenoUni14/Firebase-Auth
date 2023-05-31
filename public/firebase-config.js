@@ -1,10 +1,12 @@
+
 const firebaseConfig = {
-    apiKey: "AIzaSyDsD5e5JVvsK7LEv-2A9-I7gepIZYdp00c",
-    authDomain: "projetoweb-92f39.firebaseapp.com",
-    projectId: "projetoweb-92f39",
-    storageBucket: "projetoweb-92f39.appspot.com",
-    messagingSenderId: "255053915524",
-    appId: "1:255053915524:web:ba576d8f0d83e7ed8ba9d1"
+  apiKey: "AIzaSyAHO58pGebyIbTyovJwNuQtliz_OniEt-A",
+  authDomain: "fatecweb-32840.firebaseapp.com",
+  projectId: "fatecweb-32840",
+  storageBucket: "fatecweb-32840.appspot.com",
+  messagingSenderId: "403287383096",
+  appId: "1:403287383096:web:2dab076626f35d2d4ddacd",
+  measurementId: "G-93FMG7GSX6"
 };
 
 export default firebaseConfig;
